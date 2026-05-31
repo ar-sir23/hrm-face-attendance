@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hrm-face-attendance/static/css/main.0a82f2d8.css",
+    "main.js": "/hrm-face-attendance/static/js/main.dd8e96ea.js",
+    "static/js/488.d058aa9a.chunk.js": "/hrm-face-attendance/static/js/488.d058aa9a.chunk.js",
+    "index.html": "/hrm-face-attendance/index.html",
+    "main.0a82f2d8.css.map": "/hrm-face-attendance/static/css/main.0a82f2d8.css.map",
+    "main.dd8e96ea.js.map": "/hrm-face-attendance/static/js/main.dd8e96ea.js.map",
+    "488.d058aa9a.chunk.js.map": "/hrm-face-attendance/static/js/488.d058aa9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a82f2d8.css",
+    "static/js/main.dd8e96ea.js"
+  ]
+}
